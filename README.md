@@ -1,17 +1,24 @@
-# flutter_application_1
+# Tic-Tac-Toe Flutter App
 
-A new Flutter project.
+A simple and fun Tic-Tac-Toe game built with Flutter. This app allows two players to compete against each other in the classic grid-based game. The app features a clean interface, score tracking, and player turn indicators.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+**1. Play against a friend on the same device.**  
 
-A few resources to get you started if this is your first Flutter project:
+**2. Keep track of the score for both players.**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**3. Restart the game or quit anytime.** 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# tic_tac_toe" 
+**4. Popup notification for winner or draw.**  
+# Screenshots
+
+<p align="center">
+  <img src="https://github.com/alatjoseph/tic_tac_toe/assets/130880116/2452dbd0-879b-4c4f-82a5-ab9fcc61951c" width="400" style="margin: 10px;">
+  <img src="https://github.com/alatjoseph/tic_tac_toe/assets/130880116/90f0f51a-99a8-470d-954e-689def63bdd2" width="400" style="margin: 10px;">
+  <img src="https://github.com/alatjoseph/tic_tac_toe/assets/130880116/8eaae104-4bfb-4c2b-9918-06e91dd75ef8" width="400" style="margin: 10px;">
+  <img src="https://github.com/alatjoseph/tic_tac_toe/assets/130880116/c9d61464-d4af-4b84-aad4-095bc88818dd" width="400" style="margin: 10px;">
+  <img src="https://github.com/alatjoseph/tic_tac_toe/assets/130880116/a64b2a06-d70b-4bc6-85c5-9d0cbfb187b9" width="400" style="margin: 10px;">
+</p>
+
+
