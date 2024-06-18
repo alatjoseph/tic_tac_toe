@@ -10,7 +10,7 @@ A simple and fun Tic-Tac-Toe game built with Flutter. This app allows two player
 
 **3. Restart the game or quit anytime.** 
 
-**4. Popup notification for winner or draw.**  
+**4. Popup notification for winner and draw.**  
 # Screenshots
 
 <p align="center">
