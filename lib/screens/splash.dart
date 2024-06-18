@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       body: Container(
-        // Add a background image to the entire screen
+        //Add a background image to the entire screen
         decoration: const BoxDecoration(
           image: DecorationImage(
             image: AssetImage(
